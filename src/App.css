@@ -1,0 +1,10 @@
+#mainContainer{
+  display: flex;
+  justify-content: center;
+}
+
+#page{
+  width:80vw;
+  height:400px;
+  background-color: aqua;
+}
